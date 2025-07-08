@@ -1,3 +1,4 @@
 www.def.dk
 .def.dk
-*.def.dk
+def.dk
+https://def.dk
