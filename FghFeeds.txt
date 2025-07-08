@@ -1,2 +1,2 @@
 def.dk
-ubuntu.com
+dr.dk
